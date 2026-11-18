@@ -14,7 +14,7 @@ powered by the GNU Go engine.
 
 ## Requirements
 
-- Monika After Story (developed and tested with version 0.12.20, Ren'Py 6.99).
+- Monika After Story 0.12.0 or newer (developed and tested with version 0.12.20, Ren'Py 6.99).
 - Windows or Linux. A GNU Go program for each is bundled, so no extra install is needed.
 - macOS works if you install GNU Go yourself (see below).
 
