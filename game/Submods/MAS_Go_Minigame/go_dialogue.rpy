@@ -189,15 +189,15 @@ label mas_go_setup:
     python:
         mas_go_size = 9
 
-    m 1eua "What would you like to do?{nw}"
+    m 1eua "Which board would you like to play on?{nw}"
     $ _history_list.pop()
     menu:
-        m "What would you like to do?{fast}"
-        "Play on a 9x9 board - a quick game":
+        m "Which board would you like to play on?{fast}"
+        "9x9 - a quick game":
             $ mas_go_size = 9
-        "Play on a 13x13 board - a medium game":
+        "13x13 - a medium game":
             $ mas_go_size = 13
-        "Play on a 19x19 board - the full game":
+        "19x19 - the full game":
             $ mas_go_size = 19
         "Go over the basics again.":
             jump mas_go_tutorial
