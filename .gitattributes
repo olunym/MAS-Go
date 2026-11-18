@@ -1,0 +1,13 @@
+# Keep line endings consistent for scripts and docs.
+*.rpy text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+.gitignore text eol=lf
+LICENSE text eol=lf
+
+# Never touch binary files (the bundled GNU Go builds and the media).
+*.png binary
+*.ogg binary
+*.exe binary
+game/Submods/MAS_Go_Minigame/bin/linux/gnugo binary
