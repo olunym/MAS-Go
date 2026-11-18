@@ -19,3 +19,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+This license covers the Ren'Py scripts, the generated images and sounds, and
+the documentation in this repository. It does NOT cover the GNU Go program
+that is bundled in the bin/ folder; that is licensed separately under the GNU
+General Public License. See THIRD_PARTY_NOTICES.md.
